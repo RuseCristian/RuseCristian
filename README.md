@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuseCristian](https://github.com/RuseCristian)
 
-- 📫 How to reach me **rusecristandrei@gmail.com**
+- 📫 How to reach me **rusecristiandrei@gmail.com**
 
 - ⚡ Fun fact **: (2b || !2b) that is the question**
 
