@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruse Cristian</h1>
 <h3 align="center">A passionate CS student from Romania</h3>
 
-- 🌱 I’m currently learning **Web design**
-
 - 👨‍💻 All of my projects are available at [https://github.com/RuseCristian](https://github.com/RuseCristian)
 
 - 📫 How to reach me **rusecristiandrei@gmail.com**
