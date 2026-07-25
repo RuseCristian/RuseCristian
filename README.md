@@ -71,13 +71,6 @@ _\*disclaimer: proficiency levels may vary wildly depending on caffeine intake a
 - 📖 **reading journey**: actively trying to read more than code comments
 - 🎧 **soundtrack**: trance music at unsafe volumes
 
-## GitHub Statistics
-
-<div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuseCristian&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
-
-</div>
 
 ## Connect With Me
 
